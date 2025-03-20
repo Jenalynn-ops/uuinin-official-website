@@ -1,3 +1,3 @@
 export default function About(){
-  return <div>123</div>
+  return <div>222</div>
 }
