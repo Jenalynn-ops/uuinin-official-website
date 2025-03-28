@@ -46,3 +46,28 @@ body {
 html {
   font-size: 1vw;
 }
+
+@keyframes scroll1 {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll2 {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(50%);
+  }
+}
+
+.inset-shadow {
+  box-shadow: inset 150px 0 100px 0px rgba(0, 0, 0),
+    inset -150px 0 100px 0px rgba(0, 0, 0);
+}

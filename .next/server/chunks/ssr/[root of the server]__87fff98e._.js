@@ -1273,12 +1273,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 function BusinessModelPC() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "br mt-10 flex max-w-7xl mx-auto justify-between pt-16",
+        className: "mt-10 flex max-w-7xl mx-auto justify-between pt-16",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "br w-[51%]",
+                className: "w-[51%]",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "text-4xl font-medium",
                         children: "UUININ-商业模式"
                     }, void 0, false, {
                         fileName: "[project]/components/pc/BusinessModelPC.tsx",
@@ -1286,6 +1287,7 @@ function BusinessModelPC() {
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "text-white/60 mt-4",
                         children: "AI 赋能，全链路高效运作"
                     }, void 0, false, {
                         fileName: "[project]/components/pc/BusinessModelPC.tsx",
@@ -1293,9 +1295,10 @@ function BusinessModelPC() {
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "flex items-center",
+                        className: "flex items-center mt-12 border-b-1 pb-6 border-white/10",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "w-10 mr-5 h-14 bg-white/10 rounded-[1400px] flex justify-center items-center text-2xl font-medium",
                                 children: "1"
                             }, void 0, false, {
                                 fileName: "[project]/components/pc/BusinessModelPC.tsx",
@@ -1303,6 +1306,7 @@ function BusinessModelPC() {
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "font-medium text-xl",
                                 children: "商家入驻：基于 AI 推荐提升销量，降低广告投入"
                             }, void 0, false, {
                                 fileName: "[project]/components/pc/BusinessModelPC.tsx",
@@ -1313,6 +1317,56 @@ function BusinessModelPC() {
                     }, void 0, true, {
                         fileName: "[project]/components/pc/BusinessModelPC.tsx",
                         lineNumber: 7,
+                        columnNumber: 7
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex items-center mt-12 border-b-1 pb-6 border-white/10",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "w-10 mr-5 h-14 bg-white/10 rounded-[1400px] flex justify-center items-center text-2xl font-medium",
+                                children: "2"
+                            }, void 0, false, {
+                                fileName: "[project]/components/pc/BusinessModelPC.tsx",
+                                lineNumber: 12,
+                                columnNumber: 9
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "font-medium text-xl",
+                                children: "用户交易：直播 + 短视频引导交易，提升转化率"
+                            }, void 0, false, {
+                                fileName: "[project]/components/pc/BusinessModelPC.tsx",
+                                lineNumber: 13,
+                                columnNumber: 9
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/components/pc/BusinessModelPC.tsx",
+                        lineNumber: 11,
+                        columnNumber: 7
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex items-center mt-12 border-b-1 pb-6 border-white/10",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "w-10 mr-5 h-14 bg-white/10 rounded-[1400px] flex justify-center items-center text-2xl font-medium",
+                                children: "3"
+                            }, void 0, false, {
+                                fileName: "[project]/components/pc/BusinessModelPC.tsx",
+                                lineNumber: 16,
+                                columnNumber: 9
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "font-medium text-xl",
+                                children: "数据智能化：AI 预测用户需求，优化供应链管理"
+                            }, void 0, false, {
+                                fileName: "[project]/components/pc/BusinessModelPC.tsx",
+                                lineNumber: 17,
+                                columnNumber: 9
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/components/pc/BusinessModelPC.tsx",
+                        lineNumber: 15,
                         columnNumber: 7
                     }, this)
                 ]
@@ -1330,12 +1384,12 @@ function BusinessModelPC() {
                     alt: ""
                 }, void 0, false, {
                     fileName: "[project]/components/pc/BusinessModelPC.tsx",
-                    lineNumber: 13,
+                    lineNumber: 21,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/pc/BusinessModelPC.tsx",
-                lineNumber: 12,
+                lineNumber: 20,
                 columnNumber: 5
             }, this)
         ]

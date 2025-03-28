@@ -5,6 +5,8 @@ import Shopping from "@/components/Shopping"
 import Ability from "@/components/Ability"
 import Advantage from "@/components/Advantage"
 import BusinessModel from "@/components/BusinessModel"
+import CoBranding from "@/components/CoBranding"
+import Footer from "@/components/Footer"
 export default function Home() {
   return <div>
     <div className="relative overflow-y-auto scrollbar-none">
@@ -16,6 +18,8 @@ export default function Home() {
       <Ability></Ability>
       <Advantage></Advantage>
       <BusinessModel></BusinessModel>
+      <CoBranding></CoBranding>
+      <Footer></Footer>
     </div>
   </div >
 }
