@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/xy/Documents/code/test/uuinin-official-website/src/app/layout.tsx"],"sourcesContent":["\nexport default function RootLayout({ children }: { children: React.ReactNode }) {\n  \n\n  return (\n    <html lang=\"zh\">\n      <body>\n        <nav>\n          <a href=\"/\">首页</a> | <a href=\"/about\">关于</a>\n        </nav>\n        {children}\n      </body>\n    </html>\n  );\n}"],"names":[],"mappings":";;;;;AACe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAG5E,qBACE,8OAAC;QAAK,MAAK;kBACT,cAAA,8OAAC;;8BACC,8OAAC;;sCACC,8OAAC;4BAAE,MAAK;sCAAI;;;;;;wBAAM;sCAAG,8OAAC;4BAAE,MAAK;sCAAS;;;;;;;;;;;;gBAEvC;;;;;;;;;;;;AAIT","debugId":null}},
-    {"offset": {"line": 60, "column": 0}, "map": {"version":3,"sources":["file:///Users/xy/Documents/code/test/uuinin-official-website/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-rsc'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,4HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}}]
-}

@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///Users/xy/Documents/code/test/uuinin-official-website/src/components/PcHome.tsx"],"sourcesContent":["export default function PcHome(){\n  return <div>PC端内容</div>\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBAAO,8OAAC;kBAAI;;;;;;AACd","debugId":null}},
-    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":["file:///Users/xy/Documents/code/test/uuinin-official-website/src/components/MobileHome.tsx"],"sourcesContent":["export default function MobileHome() {\n  return <div>移动端内容</div>\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBAAO,8OAAC;kBAAI;;;;;;AACd","debugId":null}},
-    {"offset": {"line": 64, "column": 0}, "map": {"version":3,"sources":["file:///Users/xy/Documents/code/test/uuinin-official-website/src/app/page.tsx"],"sourcesContent":["import { headers } from \"next/headers\";\nimport PcHome from \"@/components/PcHome\";\nimport MobileHome from \"@/components/MobileHome\";\nexport default async function Home() {\n  const headersList = await headers();\n  const userAgent = headersList.get(\"user-agent\") || \"\";\n  const isMobile = /Mobile|Android|iP(hone|od|ad)/.test(userAgent);\n  return isMobile ? <MobileHome /> : <PcHome />;\n}\n"],"names":[],"mappings":";;;;AAAA;AACA;AACA;;;;;AACe,eAAe;IAC5B,MAAM,cAAc,MAAM,CAAA,GAAA,+HAAA,CAAA,UAAO,AAAD;IAChC,MAAM,YAAY,YAAY,GAAG,CAAC,iBAAiB;IACnD,MAAM,WAAW,gCAAgC,IAAI,CAAC;IACtD,OAAO,yBAAW,8OAAC,gIAAA,CAAA,UAAU;;;;6BAAM,8OAAC,4HAAA,CAAA,UAAM;;;;;AAC5C","debugId":null}}]
-}
