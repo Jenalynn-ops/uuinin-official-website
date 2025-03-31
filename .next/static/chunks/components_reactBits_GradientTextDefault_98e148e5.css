@@ -1,3 +1,4 @@
+/* [project]/components/reactBits/GradientTextDefault.css [app-client] (css) */
 .animated-gradient-text {
   position: relative;
   margin: 0 auto;
@@ -6,11 +7,10 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  /* border-radius: 1.25rem; */
-  /* 20px */
+  border-radius: 16px;
   font-weight: 500;
   backdrop-filter: blur(10px);
-  transition: box-shadow 0.5s ease-out;
+  transition: box-shadow .5s ease-out;
   overflow: hidden;
   cursor: pointer;
   height: 100%;
@@ -23,38 +23,38 @@
   right: 0;
   bottom: 0;
   background-size: 300% 100%;
-  animation: gradient linear infinite;
-  /* border-radius: inherit; */
+  animation: linear infinite gradient;
+  border-radius: inherit;
   z-index: 0;
   pointer-events: none;
 }
 
-.gradient-overlay::before {
+.gradient-overlay:before {
   content: "";
   position: absolute;
   left: 0;
   top: 0;
   border-radius: inherit;
-  width: 101%;
-  height: calc(120% - 6px);
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
   left: 50%;
-  top: 40%;
+  top: 50%;
   transform: translate(-50%, -50%);
-  background-color: #000;
+  background-color: #060606;
   z-index: -1;
 }
 
 @keyframes gradient {
   0% {
-    background-position: 0% 50%;
+    background-position: 0%;
   }
 
   50% {
-    background-position: 100% 50%;
+    background-position: 100%;
   }
 
   100% {
-    background-position: 0% 50%;
+    background-position: 0%;
   }
 }
 
@@ -65,6 +65,9 @@
   background-size: 300% 100%;
   background-clip: text;
   -webkit-background-clip: text;
-  color: transparent;
-  animation: gradient linear infinite;
+  color: #0000;
+  animation: linear infinite gradient;
 }
+
+
+/*# sourceMappingURL=components_reactBits_GradientTextDefault_98e148e5.css.map*/

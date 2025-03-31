@@ -8,7 +8,7 @@ export default function Advantage() {
     const userAgent = navigator.userAgent.toLowerCase();
     setIsMobile(/mobile|android|iphone|ipad/.test(userAgent));
   }, []);
-  return <div id="a4">
+  return <div id="a3" className="border border-transparent">
     {isMobile ? <div><AdvantageMobile></AdvantageMobile></div> : <AdvantagePC></AdvantagePC>}
   </div>
 }

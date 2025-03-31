@@ -1,6 +1,6 @@
 import Image from "next/image"
 export default function AdvantagePC() {
-  return <div className="mt-10 flex max-w-7xl mx-auto justify-between pt-20">
+  return <div className="mt-10 flex max-w-7xl mx-auto justify-between pt-14">
     <div className="w-[50.46%] relative">
       <Image
         src="/images/pc7.png"

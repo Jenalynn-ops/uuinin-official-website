@@ -1,6 +1,64 @@
 {
-  "nav1": "Intelligent shopping guide",
-  "nav2": "Core functions",
-  "nav3": "Advantages and highlights",
-  "nav4": "Join now"
+  "nav1": "Smart Shopping",
+  "nav2": "Core Features",
+  "nav3": "Key Advantages",
+  "nav4": "Join Now",
+  "merchantJoin": "Sell with UUININ",
+  "contactUs": "Contact Us",
+
+  "introduceTitle1": "Start the Era of Smart",
+  "introduceTitle2": "Shopping with UUININ",
+  "introduceTips1": "Your Personal AI Shopping Advisor",
+  "introduceTips2": "UUININ - The Next Generation AI Digital Human E-commerce Platform",
+  "introduceTips3": "24/7 AI Live Streaming to Recommend the Best Products",
+  "androidDownload": "Download for Android",
+  "appStoreDownload": "Download on App Store",
+
+  "shoppingTitle": "UUININ - Premium Shopping Experience",
+  "shoppingTips1": "UUININ is a new-generation AI personal shopping advisor, committed to creating a more efficient, personalized, and intelligent shopping experience.",
+  "shoppingTips2": "Through advanced AI algorithms and real-time data analysis,",
+  "shoppingTips3": "we help you find the best products effortlessly.",
+  "function1": "AI Digital Human Live Streaming E-commerce",
+  "functionTips1": "24/7 Continuous Live Streaming, Smart Interaction & Precise Recommendations",
+  "function2": "AI Short Video E-commerce",
+  "functionTips2": "AI Generates High-Quality Short Videos to Boost Sales Conversion",
+  "function3": "Twin Digital Human Program",
+  "functionTips3": "1:1 Cloned Real Humans, Intelligent Growth to Boost Conversion",
+  "function4": "Smart Supply Chain",
+  "functionTips4": "AI Optimized Logistics, Direct Supplier Connection, Ensuring the Best Prices",
+  "tabContent": [
+    {
+      "id": 1,
+      "tabTitle":"AI Digital Human Live Stream E-commerce",
+      "title": "24/7 Continuous Live Streaming, Intelligent Interactive Recommendations",
+      "content1": "Smart AI Host: Virtual Digital Human Live Streaming 24/7, Automated Product Sales",
+      "content2": "Multilingual Support: Arabic & English AI Live Streaming, Easily Reach Global Users",
+      "content3": "Smart Recommendations: AI Analyzes User Needs and Accurately Suggests the Best-Matching Products"
+    },
+    {
+      "id": 2,
+      "tabTitle": "AI Short Video E-commerce",
+      "title": "AI Generates High-Quality Product Short Videos to Boost Sales Conversion",
+      "content1": "Smart Content Creation: AI Automatically Generates Product Demos, Feature Explanations, and Purchase Guidance Short Videos",
+      "content2": "Personalized Recommendations: AI Analyzes User Behavior and Pushes Tailored Product Content for Each User",
+      "content3": "Efficient Distribution: AI Automatically Optimizes Short Video Placement for Precision Marketing"
+    },
+    {
+      "id": 3,
+      "tabTitle": "AI Avatar Program",
+      "title": "1:1 Cloning of Real Humans, Intelligent Growth to Enhance Conversion",
+      "content1": "Personalized Customization: Create Exclusive AI Live Stream Hosts Based on Real Human Images",
+      "content2": "Intelligent Learning: AI Simulates Human Voice, Tone, and Expression for High Realism Interaction",
+      "content3": "Applicable to Multiple Scenarios: Short Video E-commerce, Live Streaming Sales, and Intelligent Customer Service Integration"
+    },
+    {
+      "id": 4,
+      "tabTitle": "Smart Supply Chain",
+      "title": "AI Optimized Logistics, Direct Supplier Connection, Ensuring the Lowest Prices",
+      "content1": "Automation of Operations: AI-Driven Supply Chain Management to Reduce Operational Costs",
+      "content2": "Smart Inventory Control: Big Data Predicts Sales Trends, Accurate Restocking, Reducing Inventory Pressure",
+      "content3": "Fast Shipping: Optimize Logistics Routes to Improve Delivery Efficiency"
+    }
+  ],
+  "experience": "Experience Now"
 }

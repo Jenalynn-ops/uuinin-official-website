@@ -8,7 +8,7 @@ export default function Ability() {
     const userAgent = navigator.userAgent.toLowerCase();
     setIsMobile(/mobile|android|iphone|ipad/.test(userAgent));
   }, []);
-  return <div id="a3">
+  return <div id="a2" className="border border-transparent">
     {isMobile ? <div><AbilityMobile></AbilityMobile></div> : <AbilityPC></AbilityPC>}
   </div>
 }

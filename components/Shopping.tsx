@@ -8,7 +8,7 @@ export default function Shopping() {
     const userAgent = navigator.userAgent.toLowerCase();
     setIsMobile(/mobile|android|iphone|ipad/.test(userAgent));
   }, []);
-  return <div className="w-full border border-transparent" id="a2">
+  return <div className="w-full border border-transparent">
     {isMobile ? <ShoppingMobile></ShoppingMobile> : <ShoppingPC></ShoppingPC>}
   </div>
 }

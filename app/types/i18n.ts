@@ -1,7 +1,7 @@
 export type Locale = 'en' | 'zh'
 
 export interface Translations {
-  [key: string]: string
+  [key: string]: string | any[]
 }
 
 export interface LocaleResources {
@@ -10,9 +10,9 @@ export interface LocaleResources {
 
 // 扩展Next.js类型
 
-  interface NextPageContext {
-    locale?: Locale
-  }
+interface NextPageContext {
+  locale?: Locale
+}
 
 
 declare module 'next/navigation' {

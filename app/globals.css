@@ -71,3 +71,8 @@ html {
   box-shadow: inset 150px 0 100px 0px rgba(0, 0, 0),
     inset -150px 0 100px 0px rgba(0, 0, 0);
 }
+
+.inset-shadow-mobile {
+  box-shadow: inset 40px 0 30px 0px rgba(0, 0, 0),
+    inset -40px 0 30px 0px rgba(0, 0, 0);
+}

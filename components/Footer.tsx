@@ -8,7 +8,7 @@ export default function Footer() {
     const userAgent = navigator.userAgent.toLowerCase();
     setIsMobile(/mobile|android|iphone|ipad/.test(userAgent));
   }, []);
-  return <div id="a1" className="border border-transparent">
+  return <div id="a4" className="border border-transparent">
     {isMobile ? <div><FooterMobile></FooterMobile></div> : <FooterPC></FooterPC>}
   </div>
 }
