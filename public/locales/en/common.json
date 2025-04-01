@@ -5,7 +5,6 @@
   "nav4": "Join Now",
   "merchantJoin": "Sell with UUININ",
   "contactUs": "Contact Us",
-
   "introduceTitle1": "Start the Era of Smart",
   "introduceTitle2": "Shopping with UUININ",
   "introduceTips1": "Your Personal AI Shopping Advisor",
@@ -13,7 +12,6 @@
   "introduceTips3": "24/7 AI Live Streaming to Recommend the Best Products",
   "androidDownload": "Download for Android",
   "appStoreDownload": "Download on App Store",
-
   "shoppingTitle": "UUININ - Premium Shopping Experience",
   "shoppingTips1": "UUININ is a new-generation AI personal shopping advisor, committed to creating a more efficient, personalized, and intelligent shopping experience.",
   "shoppingTips2": "Through advanced AI algorithms and real-time data analysis,",
@@ -29,7 +27,7 @@
   "tabContent": [
     {
       "id": 1,
-      "tabTitle":"AI Digital Human Live Stream E-commerce",
+      "tabTitle": "AI Digital Human Live Stream E-commerce",
       "title": "24/7 Continuous Live Streaming, Intelligent Interactive Recommendations",
       "content1": "Smart AI Host: Virtual Digital Human Live Streaming 24/7, Automated Product Sales",
       "content2": "Multilingual Support: Arabic & English AI Live Streaming, Easily Reach Global Users",
@@ -60,5 +58,25 @@
       "content3": "Fast Shipping: Optimize Logistics Routes to Improve Delivery Efficiency"
     }
   ],
-  "experience": "Experience Now"
+  "experience": "Experience Now",
+  "advantageTitle": "Advantages of UUININ Over Traditional E-commerce",
+  "advantageTips": "Innovation-Driven, A New Intelligent Shopping Experience",
+  "advantageFunction1": "Technology Leadership: World's First AI Digital Human 24/7 Live Shopping Model",
+  "advantageFunction2": "Lower Costs: Eliminate Middlemen, Optimize Supply Chain, and Offer More Affordable Products",
+  "advantageFunction3": "Smart Interactive Experience: AI Recommendations Replace Traditional Search with Higher Accuracy",
+  
+  "businessModelTitle": "UUININ - Business Model",
+  "businessModelTips": "AI Empowerment, End-to-End Efficient Operations",
+  "businessModelContent1": "Merchant Registration: Boost Sales with AI Recommendations, Reduce Advertising Costs",
+  "businessModelContent2": "Order Transactions: Live Streaming + Short Videos to Guide Transactions and Boost Conversion Rate",
+  "businessModelContent3": "Data Intelligence: AI Predicts User Needs and Optimizes Supply Chain Management",
+
+  "coBrandingTitle": "Partner Brands",
+
+    "footerTitle1": "Join Us",
+    "footerTitle2": "Start the Era of Smart Shopping",
+    "experienceBtn": "Explore UUININ",
+    "contact": "Join Now",
+    "footerTips": "Your Personal AI Shopping Advisor"
+
 }

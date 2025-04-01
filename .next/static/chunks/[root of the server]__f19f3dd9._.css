@@ -712,6 +712,10 @@
     margin-right: calc(var(--spacing) * 9);
   }
 
+  .mr-\[2px\] {
+    margin-right: 2px;
+  }
+
   .mr-\[4px\] {
     margin-right: 4px;
   }
@@ -872,6 +876,10 @@
     height: 27px;
   }
 
+  .h-\[35px\] {
+    height: 35px;
+  }
+
   .h-\[62\] {
     height: 62px;
   }
@@ -988,8 +996,24 @@
     width: 78px;
   }
 
+  .w-\[100\%\] {
+    width: 100%;
+  }
+
+  .w-\[110px\] {
+    width: 110px;
+  }
+
   .w-\[152px\] {
     width: 152px;
+  }
+
+  .w-\[170px\] {
+    width: 170px;
+  }
+
+  .w-\[190px\] {
+    width: 190px;
   }
 
   .w-\[200\] {
@@ -1260,6 +1284,18 @@
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
 
+  .bg-\[url\(\'\/images\/androidBtn\.png\'\)\] {
+    background-image: url("/images/androidBtn.png");
+  }
+
+  .bg-\[url\(\'\/images\/btnBag\.png\'\)\] {
+    background-image: url("/images/btnBag.png");
+  }
+
+  .bg-\[url\(\/images\/androidBtn\.png\)\] {
+    background-image: url("/images/androidBtn.png");
+  }
+
   .from-\[\#1D51FE\] {
     --tw-gradient-from: #1d51fe;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
@@ -1268,6 +1304,18 @@
   .to-\[\#289AFF\] {
     --tw-gradient-to: #289aff;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+
+  .bg-auto {
+    background-size: auto;
+  }
+
+  .bg-clip-border {
+    background-clip: border-box;
+  }
+
+  .p-0 {
+    padding: calc(var(--spacing) * 0);
   }
 
   .p-5 {
@@ -1492,6 +1540,10 @@
 
   .text-\[10px\] {
     font-size: 10px;
+  }
+
+  .text-\[11px\] {
+    font-size: 11px;
   }
 
   .text-\[12px\] {

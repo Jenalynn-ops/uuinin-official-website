@@ -1,8 +1,10 @@
 import Image from "next/image"
+import { useTranslation } from "@/app/hooks/useTranslation";
 export default function CoBrandingPC() {
+  const { t } = useTranslation()
   const brands = Array.from({ length: 30 }, (_, index) => index + 1);
   return <div className="max-w-7xl mx-auto mt-10 pt-24 pb-20 px-14 overflow-hidden inset-shadow">
-    <div className="text-center text-4xl font-medium">合作品牌</div>
+    <div className="text-center text-4xl font-medium">{t.coBrandingTitle}</div>
     <div className="grid grid-cols-1">
 
       <div className="relative z-[-1] h-10 flex mt-14" style={{ width: `${brands.length * 180}px`, animation: "scroll1 30s linear infinite" }}>

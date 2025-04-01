@@ -1,130 +1,5 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_ad366247._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_53699e23._.js", {
 
-"[project]/components/mobile/IntroduceMobile.tsx [app-client] (ecmascript)": ((__turbopack_context__) => {
-"use strict";
-
-var { g: global, __dirname, k: __turbopack_refresh__, m: module } = __turbopack_context__;
-{
-__turbopack_context__.s({
-    "default": (()=>IntroduceMobile)
-});
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
-;
-;
-function IntroduceMobile() {
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "flex flex-col items-center",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                className: "mt-[16px]",
-                alt: "",
-                width: 104,
-                height: 18,
-                src: "/images/logo.png"
-            }, void 0, false, {
-                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                lineNumber: 5,
-                columnNumber: 5
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mt-[35px] text-[26px] font-semibold",
-                children: "UUININ开启智能购物时代"
-            }, void 0, false, {
-                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                lineNumber: 6,
-                columnNumber: 5
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mt-[10px] text-center text-[12px] w-[152px] text-white/60",
-                children: "你的私人 AI 购物助理"
-            }, void 0, false, {
-                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                lineNumber: 7,
-                columnNumber: 5
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mt-4 text-center text-[12px] w-[152px] text-white/60",
-                children: "7×24 小时直播推荐最优商品"
-            }, void 0, false, {
-                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                lineNumber: 8,
-                columnNumber: 5
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "relative w-full h-auto aspect-square mt-[35px]",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                    src: "/images/m1.png",
-                    fill: true,
-                    alt: ""
-                }, void 0, false, {
-                    fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                    lineNumber: 10,
-                    columnNumber: 7
-                }, this)
-            }, void 0, false, {
-                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                lineNumber: 9,
-                columnNumber: 5
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex justify-center",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "http://obs.alstarai.com/20241204/app-release.apk",
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                            className: "mr-[11px]",
-                            src: "/images/androidBtn.png",
-                            alt: "",
-                            width: 110,
-                            height: 35
-                        }, void 0, false, {
-                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                            lineNumber: 14,
-                            columnNumber: 9
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                        lineNumber: 13,
-                        columnNumber: 7
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://apps.apple.com/cn/app/uuinin/id6737213354",
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                            src: "/images/appStoreBtn.png",
-                            alt: "",
-                            width: 110,
-                            height: 35
-                        }, void 0, false, {
-                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                            lineNumber: 17,
-                            columnNumber: 9
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                        lineNumber: 16,
-                        columnNumber: 7
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-                lineNumber: 12,
-                columnNumber: 5
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "[project]/components/mobile/IntroduceMobile.tsx",
-        lineNumber: 4,
-        columnNumber: 10
-    }, this);
-}
-_c = IntroduceMobile;
-var _c;
-__turbopack_context__.k.register(_c, "IntroduceMobile");
-if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
-    __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
-}
-}}),
 "[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -172,6 +47,220 @@ _s(useTranslation, "vPKsA4b7YOGyrHjZNZGxAAdMJOM=", false, function() {
         __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useParams"]
     ];
 });
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
+}
+}}),
+"[project]/components/mobile/IntroduceMobile.tsx [app-client] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { g: global, __dirname, k: __turbopack_refresh__, m: module } = __turbopack_context__;
+{
+__turbopack_context__.s({
+    "default": (()=>IntroduceMobile)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+;
+;
+function IntroduceMobile() {
+    _s();
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "flex flex-col items-center",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                className: "mt-[16px]",
+                alt: "",
+                width: 104,
+                height: 18,
+                src: "/images/logo.png"
+            }, void 0, false, {
+                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                lineNumber: 6,
+                columnNumber: 5
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "mt-[35px] text-[26px] font-semibold text-center",
+                children: [
+                    t.introduceTitle1,
+                    t.introduceTitle2
+                ]
+            }, void 0, true, {
+                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                lineNumber: 7,
+                columnNumber: 5
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "mt-[10px] text-center text-[12px] w-full text-white/60",
+                children: t.introduceTips1
+            }, void 0, false, {
+                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                lineNumber: 8,
+                columnNumber: 5
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "mt-4 text-center text-[12px] w-full text-white/60",
+                children: t.introduceTips3
+            }, void 0, false, {
+                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                lineNumber: 9,
+                columnNumber: 5
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "relative w-full h-auto aspect-square mt-[35px]",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    src: "/images/m1.png",
+                    fill: true,
+                    alt: ""
+                }, void 0, false, {
+                    fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                    lineNumber: 11,
+                    columnNumber: 7
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                lineNumber: 10,
+                columnNumber: 5
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "flex justify-center",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                        className: "mr-[11px]",
+                        href: "http://obs.alstarai.com/20241204/app-release.apk",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "w-[110px] h-[35px] relative",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                    className: "mr-[11px] absolute left-0 top-0 z-[-1]",
+                                    src: "/images/btnbag.png",
+                                    alt: "",
+                                    width: 110,
+                                    height: 35
+                                }, void 0, false, {
+                                    fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                    lineNumber: 16,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex h-full items-center justify-center",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                            className: "mr-[2px]",
+                                            width: 13,
+                                            height: 13,
+                                            src: "/images/android.png",
+                                            alt: ""
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                            lineNumber: 18,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "text-[11px] font-[600]",
+                                            children: t.androidDownload
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                            lineNumber: 19,
+                                            columnNumber: 13
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                    lineNumber: 17,
+                                    columnNumber: 11
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                            lineNumber: 15,
+                            columnNumber: 9
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                        lineNumber: 14,
+                        columnNumber: 7
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                        href: "https://apps.apple.com/cn/app/uuinin/id6737213354",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "w-[110px] h-[35px] relative",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                    className: "mr-[11px] absolute left-0 top-0 z-[-1]",
+                                    src: "/images/btnbag.png",
+                                    alt: "",
+                                    width: 110,
+                                    height: 35
+                                }, void 0, false, {
+                                    fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                    lineNumber: 25,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex h-full items-center justify-center",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                            className: "mr-[2px]",
+                                            width: 13,
+                                            height: 13,
+                                            src: "/images/apple.png",
+                                            alt: ""
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                            lineNumber: 27,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "text-[11px] font-[600]",
+                                            children: t.appStoreDownload
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                            lineNumber: 28,
+                                            columnNumber: 13
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                                    lineNumber: 26,
+                                    columnNumber: 11
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                            lineNumber: 24,
+                            columnNumber: 9
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                        lineNumber: 23,
+                        columnNumber: 7
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+                lineNumber: 13,
+                columnNumber: 5
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/components/mobile/IntroduceMobile.tsx",
+        lineNumber: 5,
+        columnNumber: 10
+    }, this);
+}
+_s(IntroduceMobile, "zlIdU9EjM2llFt74AbE2KsUJXyM=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
+_c = IntroduceMobile;
+var _c;
+__turbopack_context__.k.register(_c, "IntroduceMobile");
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
 }
@@ -780,9 +869,14 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
 ;
 ;
 function ShoppingMobile() {
+    _s();
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "mt-[45px]",
         children: [
@@ -793,29 +887,33 @@ function ShoppingMobile() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-[20px] font-[500] mt-[18px] mb-[12px]",
-                            children: "UUININ-极致购物体验"
+                            children: t.shoppingTitle
                         }, void 0, false, {
                             fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-                            lineNumber: 7,
+                            lineNumber: 9,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-[10px] text-white/80 text-center",
-                            children: "UUININ -新一代 AI 数字人电商平台，致力于通过人工智能技术革新传统电商模式。平台以 “用户至上、技术驱动” 为核心理念，提供高效、智能的购物解决方案，连接全球消费者与商家，打造 创新、便捷、智能化 的电商生态系统。"
-                        }, void 0, false, {
+                            children: [
+                                t.shoppingTips1,
+                                t.shoppingTips2,
+                                t.shoppingTips3
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-                            lineNumber: 9,
+                            lineNumber: 11,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-                    lineNumber: 5,
+                    lineNumber: 7,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-                lineNumber: 4,
+                lineNumber: 6,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -826,21 +924,26 @@ function ShoppingMobile() {
                     fill: true
                 }, void 0, false, {
                     fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-                    lineNumber: 13,
+                    lineNumber: 15,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-                lineNumber: 12,
+                lineNumber: 14,
                 columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/mobile/ShoppingMobile.tsx",
-        lineNumber: 3,
+        lineNumber: 5,
         columnNumber: 10
     }, this);
 }
+_s(ShoppingMobile, "gd9tD1Fko1+/JEDsx4Y3zF0xCps=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
 _c = ShoppingMobile;
 var _c;
 __turbopack_context__.k.register(_c, "ShoppingMobile");
@@ -1207,79 +1310,91 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
 ;
+;
 function AbilityMobile() {
     _s();
-    const [current, setCurrent] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(0);
-    const tabTitle = [
-        {
-            id: 0,
-            title: 'AI 数字人直播带货'
-        },
-        {
-            id: 1,
-            title: 'AI 短视频带货'
-        },
-        {
-            id: 2,
-            title: '孪生计划'
-        },
-        {
-            id: 3,
-            title: '智能供应链'
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
+    // const [current, setCurrent] = useState(0)
+    // const tabTitle = [
+    //   { id: 0, title: 'AI 数字人直播带货' },
+    //   { id: 1, title: 'AI 短视频带货' },
+    //   { id: 2, title: '孪生计划' },
+    //   { id: 3, title: '智能供应链' },
+    // ]
+    // const tabs = [
+    //   {
+    //     id: 0,
+    //     title: '7x24小时不间断直播，智能互动精准推荐',
+    //     content1: '智能 AI 主播：虚拟数字人全天候直播，自动销售商品',
+    //     content2: '多语言支持：阿拉伯语 & 英语 AI 直播，轻松触达全球用户',
+    //     content3: '智能推荐：AI 分析用户需求，精准推送最匹配的商品',
+    //   },
+    //   {
+    //     id: 1,
+    //     title: 'AI 生成高质量商品短视频，提升销售转化',
+    //     content1: '智能内容创作：AI 自动生成产品展示、特点解读、购买引导短视频',
+    //     content2: '个性化推荐：AI 分析用户行为，推送千人千面的商品内容',
+    //     content3: '高效分发：AI 自动优化短视频投放，实现精准营销',
+    //   },
+    //   {
+    //     id: 2,
+    //     title: '1:1 复刻真人，智能成长提升转化',
+    //     content1: '个性化定制：基于真人形象打造专属 AI 直播主播',
+    //     content2: '智能学习：AI 模拟真人语音、语调、表达方式，实现高拟真互动',
+    //     content3: '多场景适用：短视频带货、直播销售、智能客服多功能融合',
+    //   },
+    //   {
+    //     id: 3,
+    //     title: 'AI 优化物流，直连供货商，确保最低价格',
+    //     content1: '去人工化运营：AI 驱动供应链管理，降低运营成本',
+    //     content2: '智能库存调控：大数据预测销售趋势，精准补货，减少库存压力',
+    //     content3: '极速发货：优化物流路线，提升配送效率',
+    //   },
+    // ]
+    const [current, setCurrent] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(1);
+    const [tabs, setTabs] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])([]);
+    const [content, setContent] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])({
+        title: '',
+        content1: '',
+        content2: '',
+        content3: ''
+    });
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "AbilityMobile.useEffect": ()=>{
+            if (t.tabContent && t.tabContent instanceof Array) {
+                setTabs(t.tabContent);
+                setContent(t.tabContent[0]);
+            }
         }
-    ];
-    const tabs = [
-        {
-            id: 0,
-            title: '7x24小时不间断直播，智能互动精准推荐',
-            content1: '智能 AI 主播：虚拟数字人全天候直播，自动销售商品',
-            content2: '多语言支持：阿拉伯语 & 英语 AI 直播，轻松触达全球用户',
-            content3: '智能推荐：AI 分析用户需求，精准推送最匹配的商品'
-        },
-        {
-            id: 1,
-            title: 'AI 生成高质量商品短视频，提升销售转化',
-            content1: '智能内容创作：AI 自动生成产品展示、特点解读、购买引导短视频',
-            content2: '个性化推荐：AI 分析用户行为，推送千人千面的商品内容',
-            content3: '高效分发：AI 自动优化短视频投放，实现精准营销'
-        },
-        {
-            id: 2,
-            title: '1:1 复刻真人，智能成长提升转化',
-            content1: '个性化定制：基于真人形象打造专属 AI 直播主播',
-            content2: '智能学习：AI 模拟真人语音、语调、表达方式，实现高拟真互动',
-            content3: '多场景适用：短视频带货、直播销售、智能客服多功能融合'
-        },
-        {
-            id: 3,
-            title: 'AI 优化物流，直连供货商，确保最低价格',
-            content1: '去人工化运营：AI 驱动供应链管理，降低运营成本',
-            content2: '智能库存调控：大数据预测销售趋势，精准补货，减少库存压力',
-            content3: '极速发货：优化物流路线，提升配送效率'
-        }
-    ];
+    }["AbilityMobile.useEffect"], [
+        t.tabContent
+    ]);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "pt-[25px]",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "flex justify-around",
-                children: tabTitle.map((e)=>{
+                children: tabs.map((e)=>{
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        onClick: ()=>setCurrent(e.id),
+                        onClick: ()=>{
+                            setCurrent(e.id);
+                            setContent(e);
+                        },
                         className: `text-[10px] font-[500] pb-[6px] ${current === e.id ? 'border-b' : ''}`,
-                        children: e.title
+                        children: e.tabTitle
                     }, e.id, false, {
                         fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                        lineNumber: 45,
+                        lineNumber: 63,
                         columnNumber: 18
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                lineNumber: 42,
+                lineNumber: 60,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1287,50 +1402,54 @@ function AbilityMobile() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-[15px] font-[700]",
-                        children: tabs[current].title
+                        children: content.title
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                        lineNumber: 54,
+                        lineNumber: 75,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-[10px] font-[600] mt-[12px] text-white/80 leading-[14px]",
-                        children: tabs[current].content1
+                        children: content.content1
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                        lineNumber: 55,
+                        lineNumber: 76,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-[10px] font-[600] text-white/80 leading-[14px]",
-                        children: tabs[current].content2
+                        children: content.content2
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                        lineNumber: 56,
+                        lineNumber: 77,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-[10px] font-[600] text-white/80 leading-[14px]",
-                        children: tabs[current].content3
+                        children: content.content3
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                        lineNumber: 57,
+                        lineNumber: 78,
                         columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/mobile/AbilityMobile.tsx",
-                lineNumber: 53,
+                lineNumber: 74,
                 columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/mobile/AbilityMobile.tsx",
-        lineNumber: 41,
+        lineNumber: 59,
         columnNumber: 10
     }, this);
 }
-_s(AbilityMobile, "8+O75ArtRNvpQgzeZSk5wKohTHI=");
+_s(AbilityMobile, "NmCHRlIG/69Td8tIO/2iBUuMFvs=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
 _c = AbilityMobile;
 var _c;
 __turbopack_context__.k.register(_c, "AbilityMobile");
@@ -1742,9 +1861,14 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
 ;
 ;
 function AdvantageMobile() {
+    _s();
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "mt-[25px]",
         children: [
@@ -1756,12 +1880,12 @@ function AdvantageMobile() {
                     fill: true
                 }, void 0, false, {
                     fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                    lineNumber: 5,
+                    lineNumber: 7,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                lineNumber: 4,
+                lineNumber: 6,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1771,18 +1895,18 @@ function AdvantageMobile() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-[15px] font-[700]",
-                            children: "UUININ 相比传统电商的优势"
+                            children: t.advantageTitle
                         }, void 0, false, {
                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                            lineNumber: 9,
+                            lineNumber: 11,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "text-[10px] mt-[8px] text-white/80",
-                            children: "创新驱动，智能购物新体验"
+                            children: t.advantageTips
                         }, void 0, false, {
                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                            lineNumber: 10,
+                            lineNumber: 12,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1800,26 +1924,26 @@ function AdvantageMobile() {
                                                 alt: ""
                                             }, void 0, false, {
                                                 fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                                lineNumber: 14,
+                                                lineNumber: 16,
                                                 columnNumber: 15
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                            lineNumber: 13,
+                                            lineNumber: 15,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-[10px] font-[500]",
-                                            children: "技术领先：全球首创 AI 数字人 24/7 直播购物模式"
+                                            children: t.advantageFunction1
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                            lineNumber: 16,
+                                            lineNumber: 18,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                    lineNumber: 12,
+                                    lineNumber: 14,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1834,26 +1958,26 @@ function AdvantageMobile() {
                                                 alt: ""
                                             }, void 0, false, {
                                                 fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                                lineNumber: 21,
+                                                lineNumber: 23,
                                                 columnNumber: 15
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                            lineNumber: 20,
+                                            lineNumber: 22,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-[10px] font-[500]",
-                                            children: "技术领先：全球首创 AI 数字人 24/7 直播购物模式"
+                                            children: t.advantageFunction2
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                            lineNumber: 23,
+                                            lineNumber: 25,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                    lineNumber: 19,
+                                    lineNumber: 21,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1868,52 +1992,57 @@ function AdvantageMobile() {
                                                 alt: ""
                                             }, void 0, false, {
                                                 fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                                lineNumber: 28,
+                                                lineNumber: 30,
                                                 columnNumber: 15
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                            lineNumber: 27,
+                                            lineNumber: 29,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-[10px] font-[500]",
-                                            children: "技术领先：全球首创 AI 数字人 24/7 直播购物模式"
+                                            children: t.advantageFunction3
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                            lineNumber: 30,
+                                            lineNumber: 32,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                                    lineNumber: 26,
+                                    lineNumber: 28,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                            lineNumber: 11,
+                            lineNumber: 13,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                    lineNumber: 8,
+                    lineNumber: 10,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-                lineNumber: 7,
+                lineNumber: 9,
                 columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/mobile/AdvantageMobile.tsx",
-        lineNumber: 3,
+        lineNumber: 5,
         columnNumber: 10
     }, this);
 }
+_s(AdvantageMobile, "zlIdU9EjM2llFt74AbE2KsUJXyM=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
 _c = AdvantageMobile;
 var _c;
 __turbopack_context__.k.register(_c, "AdvantageMobile");
@@ -1990,9 +2119,14 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
 ;
 ;
 function BusinessModelMobile() {
+    _s();
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "mt-[35px]",
         children: [
@@ -2004,12 +2138,12 @@ function BusinessModelMobile() {
                     alt: ""
                 }, void 0, false, {
                     fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                    lineNumber: 5,
+                    lineNumber: 7,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                lineNumber: 4,
+                lineNumber: 6,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2019,18 +2153,18 @@ function BusinessModelMobile() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "font-[700] text-[15px]",
-                            children: "UUININ-商业模式"
+                            children: t.businessModelTitle
                         }, void 0, false, {
                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                            lineNumber: 9,
+                            lineNumber: 11,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "my-[8px] text-[10px] text-white/80",
-                            children: "AI 赋能，全链路高效运作"
+                            children: t.businessModelTips
                         }, void 0, false, {
                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                            lineNumber: 10,
+                            lineNumber: 12,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2044,21 +2178,21 @@ function BusinessModelMobile() {
                                             children: "1"
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                            lineNumber: 13,
+                                            lineNumber: 15,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-[10px] font-[500]",
-                                            children: "商家入驻：基于 AI 推荐提升销量，降低广告投入"
+                                            children: t.businessModelContent1
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                            lineNumber: 14,
+                                            lineNumber: 16,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                    lineNumber: 12,
+                                    lineNumber: 14,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2069,21 +2203,21 @@ function BusinessModelMobile() {
                                             children: "1"
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                            lineNumber: 18,
+                                            lineNumber: 20,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-[10px] font-[500]",
-                                            children: "商家入驻：基于 AI 推荐提升销量，降低广告投入"
+                                            children: t.businessModelContent2
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                            lineNumber: 19,
+                                            lineNumber: 21,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                    lineNumber: 17,
+                                    lineNumber: 19,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2094,47 +2228,52 @@ function BusinessModelMobile() {
                                             children: "1"
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                            lineNumber: 23,
+                                            lineNumber: 25,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-[10px] font-[500]",
-                                            children: "商家入驻：基于 AI 推荐提升销量，降低广告投入"
+                                            children: t.businessModelContent3
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                            lineNumber: 24,
+                                            lineNumber: 26,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                                    lineNumber: 22,
+                                    lineNumber: 24,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                            lineNumber: 11,
+                            lineNumber: 13,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                    lineNumber: 8,
+                    lineNumber: 10,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-                lineNumber: 7,
+                lineNumber: 9,
                 columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/mobile/BusinessModelMobile.tsx",
-        lineNumber: 3,
+        lineNumber: 5,
         columnNumber: 10
     }, this);
 }
+_s(BusinessModelMobile, "zlIdU9EjM2llFt74AbE2KsUJXyM=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
 _c = BusinessModelMobile;
 var _c;
 __turbopack_context__.k.register(_c, "BusinessModelMobile");
@@ -2368,9 +2507,14 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
 ;
 ;
 function CoBrandingMobile() {
+    _s();
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
     const brands = Array.from({
         length: 30
     }, (_, index)=>index + 1);
@@ -2379,10 +2523,10 @@ function CoBrandingMobile() {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "text-center text-[20px] font-[500]",
-                children: "合作品牌"
+                children: t.coBrandingTitle
             }, void 0, false, {
                 fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                lineNumber: 5,
+                lineNumber: 7,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2404,18 +2548,18 @@ function CoBrandingMobile() {
                                     src: "/brands/brankLogo1.png"
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                                    lineNumber: 11,
+                                    lineNumber: 13,
                                     columnNumber: 15
                                 }, this)
                             }, e, false, {
                                 fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                                lineNumber: 10,
+                                lineNumber: 12,
                                 columnNumber: 20
                             }, this);
                         })
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                        lineNumber: 7,
+                        lineNumber: 9,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2435,18 +2579,18 @@ function CoBrandingMobile() {
                                     src: "/brands/brankLogo1.png"
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                                    lineNumber: 21,
+                                    lineNumber: 23,
                                     columnNumber: 15
                                 }, this)
                             }, e, false, {
                                 fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                                lineNumber: 20,
+                                lineNumber: 22,
                                 columnNumber: 20
                             }, this);
                         })
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                        lineNumber: 17,
+                        lineNumber: 19,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2465,33 +2609,38 @@ function CoBrandingMobile() {
                                     src: "/brands/brankLogo1.png"
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 33,
                                     columnNumber: 15
                                 }, this)
                             }, e, false, {
                                 fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                                lineNumber: 30,
+                                lineNumber: 32,
                                 columnNumber: 20
                             }, this);
                         })
                     }, void 0, false, {
                         fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                        lineNumber: 27,
+                        lineNumber: 29,
                         columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-                lineNumber: 6,
+                lineNumber: 8,
                 columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/mobile/CoBrandingMobile.tsx",
-        lineNumber: 4,
+        lineNumber: 6,
         columnNumber: 10
     }, this);
 }
+_s(CoBrandingMobile, "zlIdU9EjM2llFt74AbE2KsUJXyM=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
 _c = CoBrandingMobile;
 var _c;
 __turbopack_context__.k.register(_c, "CoBrandingMobile");
@@ -2719,9 +2868,14 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/hooks/useTranslation.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
 ;
 ;
 function FooterMobile() {
+    _s();
+    const { t } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"])();
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "mt-[26px]",
         children: [
@@ -2734,23 +2888,23 @@ function FooterMobile() {
                             className: "text-[16px] font-[600]",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    children: "加入我们"
+                                    children: t.footerTitle1
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                    lineNumber: 7,
+                                    lineNumber: 9,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    children: "开启智能购物时代"
+                                    children: t.footerTitle2
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                    lineNumber: 8,
+                                    lineNumber: 10,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/mobile/FooterMobile.tsx",
-                            lineNumber: 6,
+                            lineNumber: 8,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2758,35 +2912,35 @@ function FooterMobile() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-[78px] mr-[11px] h-[25px] border-[0.3px] border-[#006FFF]/90 rounded-[5px] flex justify-center items-center text-[8px] font-[600]",
-                                    children: "商家入驻"
+                                    children: t.footerTitle1
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                    lineNumber: 11,
+                                    lineNumber: 13,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-[78px] h-[25px] border-[0.3px] border-[#006FFF]/90 rounded-[5px] flex justify-center items-center text-[8px] font-[600]",
-                                    children: "联系我们"
+                                    children: t.contact
                                 }, void 0, false, {
                                     fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                    lineNumber: 12,
+                                    lineNumber: 14,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/mobile/FooterMobile.tsx",
-                            lineNumber: 10,
+                            lineNumber: 12,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/mobile/FooterMobile.tsx",
-                    lineNumber: 5,
+                    lineNumber: 7,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                lineNumber: 4,
+                lineNumber: 6,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2801,15 +2955,15 @@ function FooterMobile() {
                                 src: "/images/logo.png"
                             }, void 0, false, {
                                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                lineNumber: 18,
+                                lineNumber: 20,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "text-[8px] text-white/60 mt-[7px]",
-                                children: "Your Personal AI Shopping Advisor"
+                                children: t.footerTips
                             }, void 0, false, {
                                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                lineNumber: 19,
+                                lineNumber: 21,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2824,12 +2978,12 @@ function FooterMobile() {
                                             alt: ""
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                            lineNumber: 22,
+                                            lineNumber: 24,
                                             columnNumber: 13
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                        lineNumber: 21,
+                                        lineNumber: 23,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2841,12 +2995,12 @@ function FooterMobile() {
                                             alt: ""
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                            lineNumber: 25,
+                                            lineNumber: 27,
                                             columnNumber: 13
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                        lineNumber: 24,
+                                        lineNumber: 26,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2858,24 +3012,24 @@ function FooterMobile() {
                                             alt: ""
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                            lineNumber: 28,
+                                            lineNumber: 30,
                                             columnNumber: 13
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                        lineNumber: 27,
+                                        lineNumber: 29,
                                         columnNumber: 11
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                lineNumber: 20,
+                                lineNumber: 22,
                                 columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                        lineNumber: 17,
+                        lineNumber: 19,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2886,7 +3040,7 @@ function FooterMobile() {
                                 children: "Get UUININ APP"
                             }, void 0, false, {
                                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                lineNumber: 34,
+                                lineNumber: 36,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2902,12 +3056,12 @@ function FooterMobile() {
                                             alt: ""
                                         }, void 0, false, {
                                             fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                            lineNumber: 37,
+                                            lineNumber: 39,
                                             columnNumber: 13
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 38,
                                         columnNumber: 11
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -2919,25 +3073,25 @@ function FooterMobile() {
                                         alt: ""
                                     }, void 0, false, {
                                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                        lineNumber: 39,
+                                        lineNumber: 41,
                                         columnNumber: 11
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                                lineNumber: 35,
+                                lineNumber: 37,
                                 columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/mobile/FooterMobile.tsx",
-                        lineNumber: 33,
+                        lineNumber: 35,
                         columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                lineNumber: 16,
+                lineNumber: 18,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2945,16 +3099,21 @@ function FooterMobile() {
                 children: "Copyright ©2025 Crypgo. All rights reserved"
             }, void 0, false, {
                 fileName: "[project]/components/mobile/FooterMobile.tsx",
-                lineNumber: 44,
+                lineNumber: 46,
                 columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/mobile/FooterMobile.tsx",
-        lineNumber: 3,
+        lineNumber: 5,
         columnNumber: 10
     }, this);
 }
+_s(FooterMobile, "zlIdU9EjM2llFt74AbE2KsUJXyM=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$hooks$2f$useTranslation$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTranslation"]
+    ];
+});
 _c = FooterMobile;
 var _c;
 __turbopack_context__.k.register(_c, "FooterMobile");
@@ -3371,4 +3530,4 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }}),
 }]);
 
-//# sourceMappingURL=_ad366247._.js.map
+//# sourceMappingURL=_53699e23._.js.map
