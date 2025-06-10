@@ -1,7 +1,7 @@
 import GradientTextDefault from '@/components/reactBits/GradientTextDefault'
 import Image from 'next/image'
 import { useTranslation } from '@/app/hooks/useTranslation'
-export default function FooterPC() {
+export default function FooterPC({ setOpen }: any) {
   const { t } = useTranslation()
   return <div className="w-7xl mx-auto mt-26">
     <div className="h-80 bg-[#0E0E0E] rounded-2xl flex justify-between items-center px-11">
@@ -14,7 +14,7 @@ export default function FooterPC() {
           href='#a1'
           className="text-white cursor-pointer w-44 h-14 rounded-xl flex justify-center items-center border border-white/80"
         >{t.experienceBtn}</a>
-        <div className='h-14 w-56 ml-8'>
+        <div className='h-14 w-56 ml-8' onClick={() => setOpen(true)}>
           <GradientTextDefault
             colors={["#40ffaa", "#4079ff", "#40ffaa", "#4079ff", "#40ffaa"]}
             animationSpeed={3}
@@ -55,7 +55,7 @@ export default function FooterPC() {
       </div>
       <div
         className='h-[135px] border-t-[1.4px] border-white/20 flex justify-center items-center text-white/40 text-lg'
-      >Copyright ©2025 Crypgo. All rights reserved</div>
+      >UUININ TECHNOLOGY PTE. LTD.</div>
     </div>
   </div>
 }

@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { useTranslation } from "@/app/hooks/useTranslation"
-export default function FooterMobile() {
+export default function FooterMobile({ setOpen }: any) {
   const { t } = useTranslation()
   return <div className="mt-[26px]">
     <div className="px-[10px]">
@@ -11,7 +11,7 @@ export default function FooterMobile() {
         </div>
         <div className="flex">
           <div className="w-[78px] mr-[11px] h-[25px] border-[0.3px] border-[#006FFF]/90 rounded-[5px] flex justify-center items-center text-[8px] font-[600]">{t.footerTitle1}</div>
-          <div className="w-[78px] h-[25px] border-[0.3px] border-[#006FFF]/90 rounded-[5px] flex justify-center items-center text-[8px] font-[600]">{t.contact}</div>
+          <div onClick={() => setOpen(true)} className="w-[78px] h-[25px] border-[0.3px] border-[#006FFF]/90 rounded-[5px] flex justify-center items-center text-[8px] font-[600]">{t.contact}</div>
         </div>
       </div>
     </div>

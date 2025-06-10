@@ -10,5 +10,7 @@ export default function Nav() {
   }, []);
   return <div className="w-full">
     {isMobile ? <div className="px-[0px]"><NavMobile></NavMobile></div> : <NavPC></NavPC>}
-  </div>
+
+
+  </div >
 }
