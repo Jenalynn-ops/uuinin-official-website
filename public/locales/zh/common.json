@@ -58,26 +58,23 @@
       "content3": "极速发货：优化物流路线，提升配送效率"
     }
   ],
-  "experience":"立即体验",
-
-  "advantageTitle":"UUININ 相比传统电商的优势",
-  "advantageTips":"创新驱动，智能购物新体验",
-  "advantageFunction1":"技术领先:全球首创 AI 数字人 24/7 直播购物模式",
-  "advantageFunction2":"成本更低:去掉中间商，优化供应链，商品更便宜",
+  "experience": "立即体验",
+  "advantageTitle": "UUININ 相比传统电商的优势",
+  "advantageTips": "创新驱动，智能购物新体验",
+  "advantageFunction1": "技术领先:全球首创 AI 数字人 24/7 直播购物模式",
+  "advantageFunction2": "成本更低:去掉中间商，优化供应链，商品更便宜",
   "advantageFunction3": "用户体验更智能:AI推荐替代传统搜索，精准度高",
-
-  "businessModelTitle":"UUININ-商业模式",
-  "businessModelTips":"AI 赋能，全链路高效运作",
-  "businessModelContent1":"商家入驻:基于 AI 推荐提升销量，降低广告投入",
-  "businessModelContent2":"用户交易:直播 +短视频引导交易，提升转化率",
+  "businessModelTitle": "UUININ-商业模式",
+  "businessModelTips": "AI 赋能，全链路高效运作",
+  "businessModelContent1": "商家入驻:基于 AI 推荐提升销量，降低广告投入",
+  "businessModelContent2": "用户交易:直播 +短视频引导交易，提升转化率",
   "businessModelContent3": "数据智能化:AI 预测用户需求，优化供应链管理",
-
-  "coBrandingTitle":"合作品牌",
-
-  "footerTitle1":"加入我们",
+  "coBrandingTitle": "合作品牌",
+  "footerTitle1": "加入我们",
   "footerTitle2": "开启智能购物时代",
-  "experienceBtn":"体验UUININ",
-  "contact":"联系我们",
-  "footerTips":"专属AI私人购物顾问"
-
+  "experienceBtn": "体验UUININ",
+  "contact": "联系我们",
+  "footerTips": "专属AI私人购物顾问",
+  "termsService": "服务条款",
+  "privacyPolicy": "隐私政策"
 }

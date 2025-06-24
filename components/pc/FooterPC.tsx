@@ -51,6 +51,10 @@ export default function FooterPC({ setOpen }: any) {
             </a>
             <Image onClick={() => alert('尽情期待')} src="/images/googleBtn.png" className='cursor-pointer' width={204} height={71} alt=''></Image>
           </div>
+          <div className='flex mt-6'>
+            <div className='mr-6 text-2xl border-b cursor-pointer'>{t.termsService}</div>
+            <div className='text-2xl border-b cursor-pointer'>{t.privacyPolicy}</div>
+          </div>
         </div>
       </div>
       <div

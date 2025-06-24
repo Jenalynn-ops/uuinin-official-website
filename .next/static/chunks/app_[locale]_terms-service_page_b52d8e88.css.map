@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/[locale]/terms-service/page.css"],"sourcesContent":[".container-box {\n  background-color: #fff;\n}\n\n.main {\n  font-family: Arial, sans-serif;\n  line-height: 1.6;\n  color: #333;\n  max-width: 800px;\n  margin: 0 auto;\n  padding: 20px;\n}\n\nh1 {\n  color: #2c3e50;\n  border-bottom: 2px solid #eee;\n  padding-bottom: 10px;\n  font-size: 20px;\n}\n\nh2 {\n  color: #3498db;\n  margin-top: 30px;\n  font-size: 18px;\n}\n\n.effective-date {\n  font-style: italic;\n  margin-bottom: 30px;\n  font-size: 18px;\n}\n\n.jurisdiction {\n  font-weight: bold;\n  font-size: 18px;\n}\n\nul {\n  padding-left: 20px;\n  font-size: 16px;\n}\n\nli {\n  margin-bottom: 10px;\n  font-size: 16px;\n}\n\n.section-divider {\n  border-top: 1px solid #eee;\n  margin: 30px 0;\n}\n\n.contact-info {\n  background-color: #f9f9f9;\n  padding: 15px;\n  border-left: 3px solid #3498db;\n  margin-top: 20px;\n  font-size: 16px;\n}\n\np {\n  font-size: 16px;\n}"],"names":[],"mappings":"AAAA;;;;AAIA;;;;;;;;;AASA;;;;;;;AAOA;;;;;;AAMA;;;;;;AAMA;;;;;AAKA;;;;;AAKA;;;;;AAKA;;;;;AAKA;;;;;;;;AAQA"}}]
+}
