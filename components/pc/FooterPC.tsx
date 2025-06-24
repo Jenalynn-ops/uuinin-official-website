@@ -1,8 +1,11 @@
+'use client';
 import GradientTextDefault from '@/components/reactBits/GradientTextDefault'
 import Image from 'next/image'
 import { useTranslation } from '@/app/hooks/useTranslation'
+import { useRouter } from 'next/navigation';
 export default function FooterPC({ setOpen }: any) {
   const { t } = useTranslation()
+  const router = useRouter();
   return <div className="w-7xl mx-auto mt-26">
     <div className="h-80 bg-[#0E0E0E] rounded-2xl flex justify-between items-center px-11">
       <div className="text-4xl font-semibold">
@@ -52,8 +55,8 @@ export default function FooterPC({ setOpen }: any) {
             <Image onClick={() => alert('尽情期待')} src="/images/googleBtn.png" className='cursor-pointer' width={204} height={71} alt=''></Image>
           </div>
           <div className='flex mt-6'>
-            <div className='mr-6 text-2xl border-b cursor-pointer'>{t.termsService}</div>
-            <div className='text-2xl border-b cursor-pointer'>{t.privacyPolicy}</div>
+            <div className='mr-6 text-2xl border-b cursor-pointer' onClick={() => router.push('/en/terms-service')}>{t.termsService}</div>
+            <div className='text-2xl border-b cursor-pointer' onClick={() => router.push('/en/privacy-policy')}>{t.privacyPolicy}</div>
           </div>
         </div>
       </div>

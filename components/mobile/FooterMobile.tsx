@@ -1,7 +1,10 @@
+'use client';
 import Image from "next/image"
 import { useTranslation } from "@/app/hooks/useTranslation"
+import { useRouter } from 'next/navigation';
 export default function FooterMobile({ setOpen }: any) {
   const { t } = useTranslation()
+  const router = useRouter();
   return <div className="mt-[26px]">
     <div className="px-[10px]">
       <div className="bg-[#0E0E0E] flex justify-between py-[21px] px-[10px] rounded-[4px]">
@@ -29,6 +32,10 @@ export default function FooterMobile({ setOpen }: any) {
           <div className='bg-white/10 cursor-pointer w-[15px] h-[15px] rounded-[50%] flex justify-center items-center'>
             <Image width={8} height={8} src="/icons/x.png" alt=''></Image>
           </div>
+        </div>
+        <div className='flex mt-8'>
+          <div className='mr-6 text-3xl border-b cursor-pointer' onClick={() => router.push('/en/terms-service')}>{t.termsService}</div>
+          <div className='text-3xl border-b cursor-pointer' onClick={() => router.push('/en/privacy-policy')}>{t.privacyPolicy}</div>
         </div>
       </div>
 
