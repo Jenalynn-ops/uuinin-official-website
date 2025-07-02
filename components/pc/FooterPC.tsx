@@ -58,6 +58,10 @@ export default function FooterPC({ setOpen }: any) {
             <div className='mr-6 text-2xl border-b cursor-pointer' onClick={() => router.push('/en/terms-service')}>{t.termsService}</div>
             <div className='text-2xl border-b cursor-pointer' onClick={() => router.push('/en/privacy-policy')}>{t.privacyPolicy}</div>
           </div>
+          <div className='w-full mt-4 flex justify-end'>
+            <div className='cursor-pointer' onClick={() => router.push('/en/return-refund-policy')}>Return & Refund Policy、</div>
+            <div className='cursor-pointer' onClick={() => router.push('/en/shipping-policy')}>Shipping Policy</div>
+          </div>
         </div>
       </div>
       <div

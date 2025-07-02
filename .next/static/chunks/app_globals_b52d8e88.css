@@ -902,6 +902,10 @@
     justify-content: center;
   }
 
+  .justify-end {
+    justify-content: flex-end;
+  }
+
   .justify-self-end {
     justify-self: flex-end;
   }
@@ -959,29 +963,9 @@
     border-width: 1px;
   }
 
-  .border-\[0\.1\] {
-    border-style: var(--tw-border-style);
-    border-width: .1px;
-  }
-
-  .border-\[0\.1px\] {
-    border-style: var(--tw-border-style);
-    border-width: .1px;
-  }
-
   .border-\[0\.3px\] {
     border-style: var(--tw-border-style);
     border-width: .3px;
-  }
-
-  .border-\[0\.5px\] {
-    border-style: var(--tw-border-style);
-    border-width: .5px;
-  }
-
-  .border-\[1px\] {
-    border-style: var(--tw-border-style);
-    border-width: 1px;
   }
 
   .border-t-\[0\.3\] {

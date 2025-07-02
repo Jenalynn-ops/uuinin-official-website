@@ -1,6 +1,9 @@
 {
   "/[locale]/page": "app/[locale]/page.js",
-  "/[locale]/privacy-policy/page": "app/[locale]/privacy-policy/page.js",
+  "/[locale]/policy-overview/page": "app/[locale]/policy-overview/page.js",
+  "/[locale]/policy-terms/page": "app/[locale]/policy-terms/page.js",
+  "/[locale]/return-refund-policy/page": "app/[locale]/return-refund-policy/page.js",
+  "/[locale]/shipping-policy/page": "app/[locale]/shipping-policy/page.js",
   "/[locale]/terms-service/page": "app/[locale]/terms-service/page.js",
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
