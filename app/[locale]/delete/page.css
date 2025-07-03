@@ -1,0 +1,67 @@
+.container-box {
+  background-color: #fff;
+  height: 100%;
+  color: #000;
+  overflow: hidden;
+}
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.title {
+  font-size: 42px;
+  text-align: center;
+  margin: 20px 0;
+  font-weight: 500;
+}
+
+.content {
+  text-align: center;
+  font-size: 18px;
+}
+
+.tips-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 30px 0 20px;
+}
+
+.tips {
+  font-size: 18px;
+  font-weight: 500;
+  color: coral;
+}
+
+.btn {
+  color: #f00;
+  text-align: end;
+  margin-top: 40px;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.form-box {
+  margin-top: 40px;
+}
+
+.btn-code {
+  margin-bottom: 30px;
+}
+
+.code-box {
+  display: flex;
+  align-content: center;
+}
+
+.code-style {
+  width: 70%;
+}
+
+.code-btn {
+  margin-left: 20px;
+  width: calc(30% - 20px);
+}
