@@ -52,6 +52,16 @@ export default function PrivacyPolicy() {
           <li><strong>Sellers and Fulfillment Providers:</strong> Order updates, delivery confirmation, and payment
             completion status.</li>
         </ul>
+
+        <h3>D. Device Permissions and Media Access</h3>
+        <ul>
+          <li><strong>We may request access to your device’s storage to enable certain features. Specifically:</strong></li>
+          <li><strong>-Read and write external storage: </strong> This allows the app to access or store media files such as photos, videos, and audio (e.g., for uploading user-generated content or saving voice messages).</li>
+
+          <li><strong>-Microphone access:</strong>Required to record voice or audio messages.</li>
+          <li><strong>-Camera access: </strong> Required to capture images or record video content within the app.</li>
+          <li>We only access these resources with your explicit permission and solely for the purposes of providing relevant features. You can manage these permissions in your device settings at any time.</li>
+        </ul>
       </div>
 
       <div className="section-divider"></div>
@@ -80,6 +90,9 @@ export default function PrivacyPolicy() {
         <li><strong>Marketing Partners</strong> (subject to opt-in consent) to personalize and serve ads</li>
         <li><strong>Law Enforcement Authorities</strong> when required by law or regulatory order</li>
         <li><strong>Our Corporate Group</strong> for operational and infrastructure purposes</li>
+        <li><strong>-User Content Visibility</strong>When you upload content (such as photos, videos, audio, or documents) to the UUININ platform, it may be reviewed and, upon approval, publicly displayed to other users of the platform.</li>
+        <li>Please note that such content becomes accessible to the community and may be visible to anyone using the app, depending on your privacy settings (if applicable). We do not sell or share your user content with external third parties (e.g., advertisers or brokers) without your explicit consent.</li>
+
       </ul>
 
       <div className="section-divider"></div>
@@ -158,7 +171,63 @@ export default function PrivacyPolicy() {
 
       <div className="section-divider"></div>
 
-      <h2>12. Supplemental Terms — United Arab Emirates (UAE)</h2>
+      <h2>12. Data Controller and DPO Information</h2>
+      <ul>
+        <li>Data Controller：UUININ TECHNOLOGY PTE. LTD.</li>
+        <li>Address: 60 PAYA LEBAR ROAD, #04-16, PAYA LEBAR SQUARE, SINGAPORE 409051</li>
+        <li>Email: uuinin@uuinin.com</li>
+        <li>Data Protection Officer (DPO)：</li>
+        <li>Name: Designated DPO</li>
+        <li>Email: dpo@uuinin.com</li>
+      </ul>
+      <div className="section-divider"></div>
+
+
+
+      <h2>13. No Sale or Sharing of Personal Data</h2>
+      <ul>
+        <li>UUININ does not sell or share your personal data with third parties for monetary or other valuable consideration. We do not disclose personal information to third-party advertisers or data brokers.</li>
+        <li>Furthermore, our services are currently limited to the Middle East region via Google Play, and we do not process data from residents of jurisdictions like California or Virginia. However, should our app expand to other markets in the future, we are prepared to comply with relevant data protection laws including CCPA and VCDPA.</li>
+      </ul>
+      <div className="section-divider"></div>
+
+      <h2>14. Right to Know About Sharing of Personal Data</h2>
+      <ul>
+        <li>While we do not sell or share your personal data, you still have the right to know whether any such activity has occurred. You have the right to know whether your personal information has been shared with third parties, and if so, the categories of third parties and the purpose of such sharing.</li>
+        <li>You may submit a request by contacting us at uuinin@uuinin.com. We will respond in accordance with applicable data protection laws.</li>
+      </ul>
+      <div className="section-divider"></div>
+
+      <h2>15. Right to Opt-Out of Sale or Sharing</h2>
+      <ul>
+        <li>While we do not currently sell or share your personal information, you may contact us at uuinin@uuinin.com if you wish to confirm this or request restrictions. Should our policy change, we will provide a “Do Not Sell or Share My Personal Information” option within the app or website settings.</li>
+      </ul>
+      <div className="section-divider"></div>
+
+      <h2>16. Opt-Out of Targeted Advertising</h2>
+      <ul>
+        <li><strong>If you do not wish to receive targeted advertisements, you can:</strong></li>
+        <li>-Adjust ad preferences in your device settings (e.g., “Opt out of Ads Personalization” on Android);</li>
+        <li>-Disable cookies via your browser settings;</li>
+        <li>-Contact us at uuinin@uuinin.com to request restriction of marketing-based processing.</li>
+      </ul>
+      <div className="section-divider"></div>
+
+      <h2>17. Automated Decision-Making and Your Rights</h2>
+      <ul>
+        <li>You have the right to opt out of automated processing or profiling that produces legal effects or similarly significant consequences.</li>
+        <li>If you believe a decision has been made about you solely through automated means (e.g., account suspension), you may request human review by contacting uuinin@uuinin.com.</li>
+      </ul>
+      <div className="section-divider"></div>
+
+      <h2>18. Delete your account</h2>
+      <ul>
+        <li>You have the right to request the deletion of personal data we have collected about you, subject to certain legal and operational exceptions (e.g., fraud prevention or compliance with financial regulations).</li>
+        <li>We will respond to deletion requests in accordance with applicable laws. To request deletion https://www.uuinin.com/en/delete or send an email to uuinin@uuinin.com</li>
+      </ul>
+      <div className="section-divider"></div>
+
+      <h2>19. Supplemental Terms — United Arab Emirates (UAE)</h2>
       <ul>
         <li>By using the Platform in the UAE, you agree this policy is governed by UAE law.</li>
         <li>All disputes shall be settled under UAE jurisdiction. For claims within the DIFC Small Claims Tribunal limit,

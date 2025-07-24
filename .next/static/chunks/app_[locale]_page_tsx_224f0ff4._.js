@@ -7,11 +7,11 @@
   "chunks": [
     "static/chunks/_53699e23._.js",
     "static/chunks/node_modules_next_3b5af4d2._.js",
-    "static/chunks/node_modules_@ant-design_cssinjs_es_213dc618._.js",
-    "static/chunks/node_modules_antd_es_3dfd1287._.js",
-    "static/chunks/node_modules_rc-menu_es_d0fe5480._.js",
+    "static/chunks/node_modules_@ant-design_cssinjs_es_6e9cf9e6._.js",
+    "static/chunks/node_modules_antd_es_b53707d4._.js",
+    "static/chunks/node_modules_rc-menu_es_5991b429._.js",
     "static/chunks/node_modules_rc-field-form_es_4fb5d7cb._.js",
-    "static/chunks/node_modules_66e963af._.js",
+    "static/chunks/node_modules_e7efbcd1._.js",
     "static/chunks/components_reactBits_GradientTextDefault_98e148e5.css"
   ],
   "source": "dynamic"

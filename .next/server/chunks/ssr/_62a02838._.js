@@ -333,6 +333,89 @@ function PrivacyPolicy() {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 47,
                             columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                            children: "D. Device Permissions and Media Access"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 56,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                        children: "We may request access to your device’s storage to enable certain features. Specifically:"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                        lineNumber: 58,
+                                        columnNumber: 15
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                    lineNumber: 58,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "-Read and write external storage: "
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                            lineNumber: 59,
+                                            columnNumber: 15
+                                        }, this),
+                                        " This allows the app to access or store media files such as photos, videos, and audio (e.g., for uploading user-generated content or saving voice messages)."
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                    lineNumber: 59,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "-Microphone access:"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                            lineNumber: 61,
+                                            columnNumber: 15
+                                        }, this),
+                                        "Required to record voice or audio messages."
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                    lineNumber: 61,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "-Camera access: "
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                            lineNumber: 62,
+                                            columnNumber: 15
+                                        }, this),
+                                        " Required to capture images or record video content within the app."
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                    lineNumber: 62,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: "We only access these resources with your explicit permission and solely for the purposes of providing relevant features. You can manage these permissions in your device settings at any time."
+                                }, void 0, false, {
+                                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                    lineNumber: 63,
+                                    columnNumber: 11
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 57,
+                            columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
@@ -344,21 +427,21 @@ function PrivacyPolicy() {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 57,
+                    lineNumber: 67,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "2. How We Use Your Information"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 59,
+                    lineNumber: 69,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "We use your data to:"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 60,
+                    lineNumber: 70,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -367,83 +450,83 @@ function PrivacyPolicy() {
                             children: "Create and manage your account"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 62,
+                            lineNumber: 72,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Process and fulfill transactions"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 63,
+                            lineNumber: 73,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Personalize product recommendations and content"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 64,
+                            lineNumber: 74,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Display targeted ads (with your consent where required)"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 65,
+                            lineNumber: 75,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Enable messaging and social interaction features"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 66,
+                            lineNumber: 76,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Conduct fraud detection and system security"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 67,
+                            lineNumber: 77,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Improve our platform functionality and user experience"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 68,
+                            lineNumber: 78,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Comply with legal obligations and resolve disputes"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 69,
+                            lineNumber: 79,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 61,
+                    lineNumber: 71,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 72,
+                    lineNumber: 82,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "3. How We Share Your Information"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 74,
+                    lineNumber: 84,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "We may share your data with:"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 75,
+                    lineNumber: 85,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -454,14 +537,14 @@ function PrivacyPolicy() {
                                     children: "Sellers & Logistics Providers"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 77,
+                                    lineNumber: 87,
                                     columnNumber: 13
                                 }, this),
                                 " to fulfill your orders"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 77,
+                            lineNumber: 87,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -470,14 +553,14 @@ function PrivacyPolicy() {
                                     children: "Payment Processors"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 78,
+                                    lineNumber: 88,
                                     columnNumber: 13
                                 }, this),
                                 " to complete transactions"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 78,
+                            lineNumber: 88,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -486,14 +569,14 @@ function PrivacyPolicy() {
                                     children: "Cloud and Analytics Providers"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 79,
+                                    lineNumber: 89,
                                     columnNumber: 13
                                 }, this),
                                 " to improve service quality"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 79,
+                            lineNumber: 89,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -502,14 +585,14 @@ function PrivacyPolicy() {
                                     children: "Marketing Partners"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 80,
+                                    lineNumber: 90,
                                     columnNumber: 13
                                 }, this),
                                 " (subject to opt-in consent) to personalize and serve ads"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 80,
+                            lineNumber: 90,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -518,14 +601,14 @@ function PrivacyPolicy() {
                                     children: "Law Enforcement Authorities"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 81,
+                                    lineNumber: 91,
                                     columnNumber: 13
                                 }, this),
                                 " when required by law or regulatory order"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 81,
+                            lineNumber: 91,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -534,75 +617,34 @@ function PrivacyPolicy() {
                                     children: "Our Corporate Group"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 82,
+                                    lineNumber: 92,
                                     columnNumber: 13
                                 }, this),
                                 " for operational and infrastructure purposes"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 82,
-                            columnNumber: 9
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 76,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "section-divider"
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 85,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    children: "4. Your Rights and Choices"
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 87,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "Subject to local laws (e.g., UAE Federal Decree Law No. 45 of 2021), you may:"
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 88,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Access or correct your personal data"
-                        }, void 0, false, {
-                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 90,
-                            columnNumber: 9
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Delete your account and associated information"
-                        }, void 0, false, {
-                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 91,
-                            columnNumber: 9
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Withdraw consent for optional processing (e.g., marketing)"
-                        }, void 0, false, {
-                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 92,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Object to automated decision-making"
-                        }, void 0, false, {
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                    children: "-User Content Visibility"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                    lineNumber: 93,
+                                    columnNumber: 13
+                                }, this),
+                                "When you upload content (such as photos, videos, audio, or documents) to the UUININ platform, it may be reviewed and, upon approval, publicly displayed to other users of the platform."
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 93,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "File complaints with the relevant data protection authority"
+                            children: "Please note that such content becomes accessible to the community and may be visible to anyone using the app, depending on your privacy settings (if applicable). We do not sell or share your user content with external third parties (e.g., advertisers or brokers) without your explicit consent."
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 94,
@@ -611,14 +653,7 @@ function PrivacyPolicy() {
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 89,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "You can manage your data via your account settings, or by contacting us directly."
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 96,
+                    lineNumber: 86,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -629,14 +664,14 @@ function PrivacyPolicy() {
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    children: "5. Data Retention"
+                    children: "4. Your Rights and Choices"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                     lineNumber: 100,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "We retain your information:"
+                    children: "Subject to local laws (e.g., UAE Federal Decree Law No. 45 of 2021), you may:"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                     lineNumber: 101,
@@ -645,24 +680,38 @@ function PrivacyPolicy() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "For the duration of your account's activity"
+                            children: "Access or correct your personal data"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 103,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "As needed to fulfill contracts, legal obligations, or dispute resolution"
+                            children: "Delete your account and associated information"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 104,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "As anonymized or aggregated data for analytical purposes"
+                            children: "Withdraw consent for optional processing (e.g., marketing)"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                             lineNumber: 105,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Object to automated decision-making"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 106,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "File complaints with the relevant data protection authority"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 107,
                             columnNumber: 9
                         }, this)
                     ]
@@ -671,25 +720,82 @@ function PrivacyPolicy() {
                     lineNumber: 102,
                     columnNumber: 7
                 }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    children: "You can manage your data via your account settings, or by contacting us directly."
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 109,
+                    columnNumber: 7
+                }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 108,
+                    lineNumber: 111,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "5. Data Retention"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 113,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    children: "We retain your information:"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 114,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "For the duration of your account's activity"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 116,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "As needed to fulfill contracts, legal obligations, or dispute resolution"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 117,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "As anonymized or aggregated data for analytical purposes"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 118,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 115,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 121,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "6. Security Measures"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 110,
+                    lineNumber: 123,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "We implement:"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 111,
+                    lineNumber: 124,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -698,116 +804,59 @@ function PrivacyPolicy() {
                             children: "Data encryption"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 113,
+                            lineNumber: 126,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Secure cloud storage"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 114,
+                            lineNumber: 127,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Access control protocols"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 115,
+                            lineNumber: 128,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Routine audits and monitoring"
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 116,
+                            lineNumber: 129,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 112,
+                    lineNumber: 125,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "While we take reasonable steps to secure your data, no platform is 100% secure."
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 118,
+                    lineNumber: 131,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 120,
+                    lineNumber: 133,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "7. Children's Privacy"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 122,
+                    lineNumber: 135,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "The Platform is not intended for children under 13 (or under 18 in jurisdictions where consent is legally required). If we learn that we've collected data from a minor without proper consent, we will delete it promptly."
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 123,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "section-divider"
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 127,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    children: "8. Cookies & Tracking Technologies"
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 129,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "We use cookies and other tracking technologies to:"
-                }, void 0, false, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 130,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Analyze usage patterns"
-                        }, void 0, false, {
-                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 132,
-                            columnNumber: 9
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Personalize ads"
-                        }, void 0, false, {
-                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 133,
-                            columnNumber: 9
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            children: "Enable features like login persistence and content recommendations"
-                        }, void 0, false, {
-                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 134,
-                            columnNumber: 9
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 131,
-                    columnNumber: 7
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "You may disable cookies in your browser, but this may impact certain functions."
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
                     lineNumber: 136,
@@ -817,63 +866,120 @@ function PrivacyPolicy() {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 138,
+                    lineNumber: 140,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "8. Cookies & Tracking Technologies"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 142,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    children: "We use cookies and other tracking technologies to:"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 143,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Analyze usage patterns"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 145,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Personalize ads"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 146,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Enable features like login persistence and content recommendations"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 147,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 144,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    children: "You may disable cookies in your browser, but this may impact certain functions."
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 149,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 151,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "9. International Data Transfers"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 140,
+                    lineNumber: 153,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "Your data may be stored in servers located in the UAE, Singapore, or other jurisdictions. We take appropriate contractual and technical safeguards to ensure a high level of data protection."
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 141,
+                    lineNumber: 154,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 144,
+                    lineNumber: 157,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "10. Policy Updates"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 146,
+                    lineNumber: 159,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "We may update this Privacy Policy periodically. Changes will be posted with an updated effective date. Continued use of the Platform means you accept the changes."
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 147,
+                    lineNumber: 160,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 150,
+                    lineNumber: 163,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     children: "11. Contact Information"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 152,
+                    lineNumber: 165,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "If you have any questions, please contact:"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 153,
+                    lineNumber: 166,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -885,14 +991,14 @@ function PrivacyPolicy() {
                                     children: "Email:"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 155,
+                                    lineNumber: 168,
                                     columnNumber: 12
                                 }, this),
                                 " uuinin@uuinin.com"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 155,
+                            lineNumber: 168,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -901,34 +1007,325 @@ function PrivacyPolicy() {
                                     children: "Mailing Address:"
                                 }, void 0, false, {
                                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                                    lineNumber: 156,
+                                    lineNumber: 169,
                                     columnNumber: 12
                                 }, this),
                                 " 60 PAYA LEBAR ROAD, #04-16, PAYA LEBAR SQUARE, SINGAPORE 409051"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 156,
+                            lineNumber: 169,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 154,
+                    lineNumber: 167,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-divider"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 159,
+                    lineNumber: 172,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    children: "12. Supplemental Terms — United Arab Emirates (UAE)"
+                    children: "12. Data Controller and DPO Information"
                 }, void 0, false, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 161,
+                    lineNumber: 174,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Data Controller：UUININ TECHNOLOGY PTE. LTD."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 176,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Address: 60 PAYA LEBAR ROAD, #04-16, PAYA LEBAR SQUARE, SINGAPORE 409051"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 177,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Email: uuinin@uuinin.com"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 178,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Data Protection Officer (DPO)："
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 179,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Name: Designated DPO"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 180,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Email: dpo@uuinin.com"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 181,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 175,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 183,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "13. No Sale or Sharing of Personal Data"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 187,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "UUININ does not sell or share your personal data with third parties for monetary or other valuable consideration. We do not disclose personal information to third-party advertisers or data brokers."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 189,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "Furthermore, our services are currently limited to the Middle East region via Google Play, and we do not process data from residents of jurisdictions like California or Virginia. However, should our app expand to other markets in the future, we are prepared to comply with relevant data protection laws including CCPA and VCDPA."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 190,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 188,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 192,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "14. Right to Know About Sharing of Personal Data"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 194,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "While we do not sell or share your personal data, you still have the right to know whether any such activity has occurred. You have the right to know whether your personal information has been shared with third parties, and if so, the categories of third parties and the purpose of such sharing."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 196,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "You may submit a request by contacting us at uuinin@uuinin.com. We will respond in accordance with applicable data protection laws."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 197,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 195,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 199,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "15. Right to Opt-Out of Sale or Sharing"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 201,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                        children: "While we do not currently sell or share your personal information, you may contact us at uuinin@uuinin.com if you wish to confirm this or request restrictions. Should our policy change, we will provide a “Do Not Sell or Share My Personal Information” option within the app or website settings."
+                    }, void 0, false, {
+                        fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                        lineNumber: 203,
+                        columnNumber: 9
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 202,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 205,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "16. Opt-Out of Targeted Advertising"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 207,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                children: "If you do not wish to receive targeted advertisements, you can:"
+                            }, void 0, false, {
+                                fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                                lineNumber: 209,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 209,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "-Adjust ad preferences in your device settings (e.g., “Opt out of Ads Personalization” on Android);"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 210,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "-Disable cookies via your browser settings;"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 211,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "-Contact us at uuinin@uuinin.com to request restriction of marketing-based processing."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 212,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 208,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 214,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "17. Automated Decision-Making and Your Rights"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 216,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "You have the right to opt out of automated processing or profiling that produces legal effects or similarly significant consequences."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 218,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "If you believe a decision has been made about you solely through automated means (e.g., account suspension), you may request human review by contacting uuinin@uuinin.com."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 219,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 217,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 221,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "18. Delete your account"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 223,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "You have the right to request the deletion of personal data we have collected about you, subject to certain legal and operational exceptions (e.g., fraud prevention or compliance with financial regulations)."
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 225,
+                            columnNumber: 9
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                            children: "We will respond to deletion requests in accordance with applicable laws. To request deletion https://www.uuinin.com/en/delete or send an email to uuinin@uuinin.com"
+                        }, void 0, false, {
+                            fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                            lineNumber: 226,
+                            columnNumber: 9
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 224,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "section-divider"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 228,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    children: "19. Supplemental Terms — United Arab Emirates (UAE)"
+                }, void 0, false, {
+                    fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
+                    lineNumber: 230,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -937,34 +1334,34 @@ function PrivacyPolicy() {
                             children: "By using the Platform in the UAE, you agree this policy is governed by UAE law."
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 163,
+                            lineNumber: 232,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "All disputes shall be settled under UAE jurisdiction. For claims within the DIFC Small Claims Tribunal limit, the dispute shall be referred to the DIFC SCT."
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 164,
+                            lineNumber: 233,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "For disputes beyond that limit, resolution shall follow DIFC-LCIA arbitration rules in Dubai, in English."
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 166,
+                            lineNumber: 235,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: "Your data may be processed or stored outside the UAE, subject to appropriate safeguards."
                         }, void 0, false, {
                             fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                            lineNumber: 167,
+                            lineNumber: 236,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/[locale]/privacy-policy/page.tsx",
-                    lineNumber: 162,
+                    lineNumber: 231,
                     columnNumber: 7
                 }, this)
             ]
